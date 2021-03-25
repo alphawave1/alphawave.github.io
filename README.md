@@ -1,5 +1,5 @@
 <html>
-<img src="https://images.guru/i/dhU6J" width="250" height="auto" alt="tensorflow-image-detection icon"/>
+<img src="https://images.guru/images/2021/03/25/dhU6J.png" width="250" height="auto" alt="plastic-image-detection icon"/>
 
 # plastic-image-detection
 A generic image detection program that uses Google's Machine Learning library, [Tensorflow](https://www.tensorflow.org/) and a pre-trained Deep Learning Convolutional Neural Network model called [Inception](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html).
